@@ -1,11 +1,5 @@
 !SLIDE bullets incremental
 
-# Digression #
-
-* My five stages of coping with the iPad
-
-!SLIDE bullets incremental
-
 # Personal history #
 
 * 1999-2000: CD-ROM multimedia
@@ -13,6 +7,12 @@
 * 2003: DHTML hosted from software CDs
 * 2004-2009: LAMP e-learning/CMS tools
 * 2009-2010: Digital + print publishing
+
+!SLIDE bullets incremental
+
+# Digression #
+
+* My five stages of coping with the iPad
 
 !SLIDE bullets incremental
 

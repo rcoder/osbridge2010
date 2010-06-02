@@ -10,6 +10,35 @@
 * Audio/video support
 * CSS3 for visual styling, transitions
 
+!SLIDE
+
+# HTML5 offline manifest (serve w/MIME type text/cache-manifest) #
+
+<pre style="font-size: 24pt;">
+CACHE MANIFEST
+
+index.html
+style.css
+img01.jpg
+img02.jpg
+</pre>
+
+!SLIDE
+
+# HTML5 offline page markup
+
+<pre style="font-size: 24pt;">
+&lt;!DOCTYPE html&gt;
+&lt;html manifest=&quot;cache.manifest&quot;&gt;
+    &lt;head&gt;
+        ...
+    &lt;/head&gt;
+    &lt;body&gt;
+        ...
+    &lt;/body&gt;
+&lt;/html&gt;
+</pre>
+
 !SLIDE bullets incremental
 
 # Hardware improvements #
@@ -32,4 +61,10 @@
 * Hypertext
 * Interactivity
 * Multimedia
+
+!SLIDE
+
+# Questions? #
+
+## _Really, I mean it this time._ ##
 
