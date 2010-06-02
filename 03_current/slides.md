@@ -92,11 +92,11 @@ OPS/
     font.otf
 </div>
 
-!SLIDE code
+!SLIDE
 
 # container.xml #
 
-<div style="font-size: 22pt;">
+<pre style="font-size: 22pt;">
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; ?&gt;
 &lt;container version=&quot;1.0&quot; 
  xmlns=&quot;urn:oasis:names:tc:opendocument:xmlns:container&quot;&gt;
@@ -105,7 +105,7 @@ OPS/
      media-type=&quot;application/oebps-package+xml&quot;/&gt;
   &lt;/rootfiles&gt;
 &lt;/container&gt;
-</div>
+</pre>
 
 !SLIDE bullets incremental
 
