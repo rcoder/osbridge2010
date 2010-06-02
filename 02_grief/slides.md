@@ -1,8 +1,8 @@
-!SLIDE 
+!SLIDE bullets incremental
 
 # Digression #
 
-## My five stages of coping with the iPad ##
+* My five stages of coping with the iPad
 
 !SLIDE bullets incremental
 
