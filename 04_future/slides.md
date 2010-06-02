@@ -43,18 +43,18 @@ img02.jpg
 
 !SLIDE bullets incremental
 
-# Hardware improvements #
-
-* Color e-ink
-* Android/Linux tablets
-
-!SLIDE bullets incremental
-
 # Future channels #
 
 * Open Publication Distribution System (OPDS/openpub)
 * Independent ePub stores
 * Pure web readers
+
+!SLIDE bullets incremental
+
+# Hardware improvements #
+
+* Color e-ink
+* Android/Linux tablets
 
 !SLIDE bullets incremental
 
