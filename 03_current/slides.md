@@ -32,10 +32,46 @@
 # ePub format #
 
 * XHTML + CSS + image files
-* Open Packaging Format (OPF) metadata
 * ZIP archive + container
+* Open Packaging Format (OPF) metadata
 * ...
 * That's it!
+
+!SLIDE
+
+# ZIP archive
+
+!SLIDE code
+
+<div style="font-size: 24pt;">
+mimetype
+META-INF/
+  container.xml
+OPS/
+  book.opf
+  chapter1.xhtml
+  cover.png
+  css/
+    book.css
+    font.otf
+</div>
+
+!SLIDE
+
+# container.xml #
+
+!SLIDE code
+
+<div style="font-size: 22pt;">
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; ?&gt;
+&lt;container version=&quot;1.0&quot; 
+ xmlns=&quot;urn:oasis:names:tc:opendocument:xmlns:container&quot;&gt;
+  &lt;rootfiles&gt;
+    &lt;rootfile full-path=&quot;OPS/book.opf&quot; 
+     media-type=&quot;application/oebps-package+xml&quot;/&gt;
+  &lt;/rootfiles&gt;
+&lt;/container&gt;
+</div>
 
 !SLIDE
 
@@ -73,40 +109,6 @@
 &lt;/package&gt;
 </div>
 
-!SLIDE
-
-# ZIP archive
-
-!SLIDE code
-
-<div style="font-size: 24pt;">
-mimetype
-META-INF/
-  container.xml
-OPS/
-  book.opf
-  chapter1.xhtml
-  cover.png
-  css/
-    book.css
-    font.otf
-</div>
-
-!SLIDE
-
-# container.xml #
-
-<pre style="font-size: 22pt;">
-&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; ?&gt;
-&lt;container version=&quot;1.0&quot; 
- xmlns=&quot;urn:oasis:names:tc:opendocument:xmlns:container&quot;&gt;
-  &lt;rootfiles&gt;
-    &lt;rootfile full-path=&quot;OPS/book.opf&quot; 
-     media-type=&quot;application/oebps-package+xml&quot;/&gt;
-  &lt;/rootfiles&gt;
-&lt;/container&gt;
-</pre>
-
 !SLIDE bullets incremental
 
 # Open Source ePub tools #
@@ -126,7 +128,7 @@ OPS/
 * [http://code.google.com/p/threepress/](http://code.google.com/p/threepress/)
 * Django web application for reading ePub books online via a computer or mobile device
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # Open Source ePub tools, cont. #
 
