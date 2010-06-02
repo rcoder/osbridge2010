@@ -17,11 +17,15 @@
 * Color e-ink
 * Android/Linux tablets
 
+!SLIDE bullets incremental
+
 # Future channels #
 
 * Open Publication Distribution System (OPDS/openpub)
 * Independent ePub stores
 * Pure web readers
+
+!SLIDE bullets incremental
 
 # Evolving content #
 
