@@ -2,14 +2,17 @@
 
 # eBooks, ePub, iPad, Kindle, Oh-my! #
 
-!SLIDE bullets incremental
+!SLIDE bullets 
 * "Print is dead. Well, not dead yet. But it'll be stone dead in a moment."
-* or
-* How I learned to stop worrying and love the iPad
 
-!SLIDE
+!SLIDE bullets incremental
 
 # What is an e-book? #
+
+* Text
+* Images
+* Links
+* Basic media
 
 !SLIDE
 
