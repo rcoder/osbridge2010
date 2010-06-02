@@ -12,7 +12,9 @@
 
 !SLIDE
 
-# HTML5 offline manifest (serve w/MIME type text/cache-manifest) #
+# HTML5 offline manifest #
+
+## Serve w/MIME type text/cache-manifest) ##
 
 <pre style="font-size: 24pt;">
 CACHE MANIFEST
