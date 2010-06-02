@@ -19,6 +19,13 @@
 
 # Future channels #
 
-* Indie ePub stores
+* Open Publication Distribution System (OPDS/openpub)
+* Independent ePub stores
 * Pure web readers
+
+# Evolving content #
+
+* Hypertext
+* Interactivity
+* Multimedia
 

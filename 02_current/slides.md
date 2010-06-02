@@ -16,11 +16,9 @@
 * Mobipocket (Kindle, various mobile devices)
 * PDF (desktop systems)
 
-!SLIDE
+!SLIDE bullets incremental
 
 # Which format(s) should I use? #
-
-!SLIDE bullets incremental
 
 * ePub
 * HTML
@@ -113,20 +111,22 @@ OPS/
 &lt;/container&gt;
 </div>
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # Open Source ePub tools #
 
 ## epub-tools ##
+## [http://code.google.com/p/epub-tools/](http://code.google.com/p/epub-tools/) ##
 
 * Conversion from Word, DocBook, and other formats to ePub
 * Validation, pure-HTML preview tools
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # Open Source ePub tools, cont. #
 
 ## Bookworm ##
+## [http://code.google.com/p/threepress/](http://code.google.com/p/threepress/)
 
 * Django web application for reading ePub books online via a computer or mobile device
 
