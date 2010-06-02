@@ -5,6 +5,14 @@
 !SLIDE bullets 
 * "Print is dead. Well, not dead yet. But it'll be stone dead in a moment."
 
+!SLIDE
+
+<h1 style="margin-right: 0.88em;">What this talk is</h1>
+
+!SLIDE
+
+# What this talk _isn't_ #
+
 !SLIDE bullets incremental
 
 # What is an e-book? #

@@ -23,10 +23,6 @@
 * ePub
 * HTML
 
-!SLIDE
-
-# Questions? #
-
 !SLIDE 
 
 # What is ePub? #

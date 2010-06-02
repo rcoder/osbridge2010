@@ -66,5 +66,3 @@ img02.jpg
 
 # Questions? #
 
-## _Really, I mean it this time._ ##
-
