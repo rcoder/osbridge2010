@@ -3,7 +3,8 @@
     "description": "Print is dead. Well, not dead yet. But it'll be stone dead in a moment.",
     "sections": [
         {"section": "01_history"},
-        {"section": "02_current"},
-        {"section": "03_future"}
+        {"section": "02_grief"},
+        {"section": "03_current"},
+        {"section": "04_future"}
     ]
 }

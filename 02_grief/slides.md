@@ -6,6 +6,16 @@
 
 !SLIDE bullets incremental
 
+# Personal history #
+
+* 1999-2000: CD-ROM multimedia
+* 2001-2002: DocBook + LaTeX technical books
+* 2003: DHTML hosted from software CDs
+* 2004-2009: LAMP e-learning/CMS tools
+* 2009-2010: Digital + print publishing
+
+!SLIDE bullets incremental
+
 # Denial #
 
 * I don't even *want* an iPad. Really.
@@ -29,9 +39,9 @@
 * So Flash is a no-go...what about Mono? Lua? MacRuby? 
 * Okay, I guess I can learn Objective-C. Core Animation is pretty cool after all...
 * Kindle apps on other h/w are great, but missing:
-** Whispersync
-** cross-device support
-** good markup
+* Whispersync
+* cross-device support
+* good markup
 
 !SLIDE bullets incremental
 
