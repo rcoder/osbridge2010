@@ -12,21 +12,6 @@
 
 !SLIDE
 
-# HTML5 offline manifest #
-
-## Serve w/MIME type text/cache-manifest) ##
-
-<pre style="font-size: 24pt;">
-CACHE MANIFEST
-
-index.html
-style.css
-img01.jpg
-img02.jpg
-</pre>
-
-!SLIDE
-
 # HTML5 offline page markup
 
 <pre style="font-size: 24pt;">
@@ -39,6 +24,21 @@ img02.jpg
         ...
     &lt;/body&gt;
 &lt;/html&gt;
+</pre>
+
+!SLIDE
+
+# HTML5 offline manifest #
+
+## (Serve w/MIME type text/cache-manifest) ##
+
+<pre style="font-size: 24pt;">
+CACHE MANIFEST
+
+index.html
+style.css
+img01.jpg
+img02.jpg
 </pre>
 
 !SLIDE bullets incremental
