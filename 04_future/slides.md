@@ -66,3 +66,10 @@ img02.jpg
 
 # Questions? #
 
+!SLIDE
+
+# Thanks! #
+
+## Lennon Day-Reynolds &lt;lennon@rcoder.net&gt; ##
+## [http://rcoder.net/](http://rcoder.net/) ##
+## [http://github.com/rcoder/osbridge2010](http://github.com/rcoder/osbridge2010) ##

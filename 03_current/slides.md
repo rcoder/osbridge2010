@@ -112,8 +112,8 @@ OPS/
 # Open Source ePub tools #
 
 ## epub-tools ##
-## [http://code.google.com/p/epub-tools/](http://code.google.com/p/epub-tools/) ##
 
+* [http://code.google.com/p/epub-tools/](http://code.google.com/p/epub-tools/) 
 * Conversion from Word, DocBook, and other formats to ePub
 * Validation, pure-HTML preview tools
 
@@ -122,8 +122,8 @@ OPS/
 # Open Source ePub tools, cont. #
 
 ## Bookworm ##
-## [http://code.google.com/p/threepress/](http://code.google.com/p/threepress/)
 
+* [http://code.google.com/p/threepress/](http://code.google.com/p/threepress/)
 * Django web application for reading ePub books online via a computer or mobile device
 
 !SLIDE bullets
@@ -132,5 +132,6 @@ OPS/
 
 ## Calibre ##
 
+* [http://calibre-ebook.com/](http://calibre-ebook.com/)
 * Cross-platform GUI e-book conversion app
 * Manages e-book library, provides sync server

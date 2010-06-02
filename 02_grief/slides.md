@@ -40,8 +40,8 @@
 * Okay, I guess I can learn Objective-C. Core Animation is pretty cool after all...
 * Kindle apps on other h/w are great, but missing:
 * Whispersync
-* cross-device support
-* good markup
+* Cross-device support
+* Nice markup
 
 !SLIDE bullets incremental
 

@@ -2,6 +2,10 @@
 
 # eBooks, ePub, iPad, Kindle, Oh-my! #
 
+## Lennon Day-Reynolds &lt;lennon@rcoder.net&gt; ##
+## [http://rcoder.net/](http://rcoder.net/) ##
+## [http://github.com/rcoder/osbridge2010](http://github.com/rcoder/osbridge2010) ##
+
 !SLIDE bullets 
 * "Print is dead. Well, not dead yet. But it'll be stone dead in a moment."
 
